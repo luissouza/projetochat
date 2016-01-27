@@ -1,0 +1,28 @@
+@(loginForm : Form[models.Login])
+	
+<div>
+	<div>
+		@helper.form(action=routes.Chat.consultar()) {
+		<form>
+			<fieldset>
+				<legend>Login</legend>
+				<div>
+					<div>
+					    
+						@helper.inputText(loginForm("name"), '_label -> "Nome: ")
+						@helper.inputPassword(loginForm("senha"), '_label -> "Senha: ")
+						
+					</div>
+				</div>
+				}
+
+				<div>
+					<label for="singlebutton"></label>
+					
+					<div>
+				    <button id="singlebutton" name="singlebutton">Entrar</button>
+					</div>
+				</div>
+		</form>
+	</div>
+</div>

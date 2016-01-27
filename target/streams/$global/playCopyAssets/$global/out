@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy play resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\play-2.2.1\projetochat\public\images\favicon.png,C:\play-2.2.1\projetochat\target\scala-2.10\classes\public\images\favicon.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\play-2.2.1\projetochat\public\javascripts\jquery-1.9.0.min.js,C:\play-2.2.1\projetochat\target\scala-2.10\classes\public\javascripts\jquery-1.9.0.min.js)[0m
+[0m[[0mdebug[0m] [0m	(C:\play-2.2.1\projetochat\public\stylesheets\bootstrap.css,C:\play-2.2.1\projetochat\target\scala-2.10\classes\public\stylesheets\bootstrap.css)[0m
+[0m[[0mdebug[0m] [0m	(C:\play-2.2.1\projetochat\public\stylesheets\chat.css,C:\play-2.2.1\projetochat\target\scala-2.10\classes\public\stylesheets\chat.css)[0m
